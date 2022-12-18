@@ -14,8 +14,8 @@ to calculate the currency exchange of currency.
 
 ### Screenshot
 
-![](./images/screenshot.png)
-![](./images/screenshot-2.png)
+![](./img/screenshot.png)
+![](./img/screenshot-2.png)
 
 ### Links
 
